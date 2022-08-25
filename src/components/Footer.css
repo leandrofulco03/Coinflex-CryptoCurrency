@@ -1,0 +1,21 @@
+.footer {
+    width: 100%;
+    margin-top: 8rem;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.social-container i{
+    font-size: 3rem;
+    margin: 1rem;
+}
+.social-container i:hover {
+    color: #4c03fe;
+    cursor: pointer;
+}

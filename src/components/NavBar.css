@@ -1,0 +1,27 @@
+.navbar-brand {
+    color: #fff;
+    font-weight: 700;
+}
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.navbar>.container {
+    padding-top: 2rem;
+}
+.navbar>.container a {
+    color: #fff;
+}
+
+.navbar-nav a{
+    margin-left: 2.5rem;
+}
+.navbar-nav a:hover {
+    color: #6f13f4;
+}
+
+@media(max-width: 987px) {
+    .navbar-nav a{
+        margin-left: 0;
+    }
+}
